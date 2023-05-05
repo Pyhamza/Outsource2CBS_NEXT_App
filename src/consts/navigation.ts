@@ -20,20 +20,20 @@ export const NAV_MENU_ITEMS = [
       },
     ],
   },
-  {
-    text: 'Blog',
-    href: BLOG_PATH,
-    isExternal: false,
-  },
-  {
-    text: 'Docs',
-    href: DOCS.href,
-    isExternal: true,
-  },
-  {
-    text: 'Source',
-    href: GITHUB_REPO_OCKAM.href,
-    icon: GITHUB_REPO_OCKAM.icon,
-    isExternal: true,
-  },
+  // {
+  //   text: 'Blog',
+  //   href: BLOG_PATH,
+  //   isExternal: false,
+  // },
+  // {
+  //   text: 'Docs',
+  //   href: DOCS.href,
+  //   isExternal: true,
+  // },
+  // {
+  //   text: 'Source',
+  //   href: GITHUB_REPO_OCKAM.href,
+  //   icon: GITHUB_REPO_OCKAM.icon,
+  //   isExternal: true,
+  // },
 ];
