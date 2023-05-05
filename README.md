@@ -1,4 +1,4 @@
-# OckamWebsite
+# Outsource2CBS Website
 
 ## Table of Contents
 - [Welcome](./WELCOME.md)
@@ -19,7 +19,7 @@
 
 ## About The Project
 
-This repository contains all the content and code for [Ockam.io](https://www.ockam.io/).
+This repository contains all the content and code for [Outsource2Cbs](vercel App for now).
 
 ### Built With
 
@@ -41,8 +41,6 @@ Run `npm run prepare:hooks` command.
 
 ### Running the project
 Run `npm run start:dev` command.
-
-
 
 ## Project folder structure and purpose
 
